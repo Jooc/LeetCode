@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc362da6-90a6-4de3-90ea-1986ff13d956" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/Common/Solution_1790.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/Common/Solution_675.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Swift-version/LeetCode/LeetCode/Solutions/Solution.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Swift-version/LeetCode/LeetCode/Solutions/Solution_118.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Swift-version/LeetCode/LeetCode/Solutions/Solution_3.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Swift-version/LeetCode/LeetCode/Solutions/Solution_675.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/03/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/03/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/03/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/03/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/03/03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/03/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/04/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/04/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/04/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/04/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/04/04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/04/out/production/04/Main$Solution_CompleteBinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/04/out/production/04/Main$Solution_HalfBinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/04/out/production/04/Main$Solution_SnakeCrawl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/04/out/production/04/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/04/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/05/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/05/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/05/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/05/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/05/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/05/05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/05/out/production/05/Main$Solution_StringBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/05/out/production/05/Main$Solution_traversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/05/out/production/05/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/05/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/06/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/06/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/06/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/06/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/06/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/06/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/06/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/06/06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/06/out/production/06/META-INF/06.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/06/out/production/06/Main$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/06/out/production/06/Main$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/06/out/production/06/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/06/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/07-RebuilBinaryTree/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/07-RebuilBinaryTree/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/07-RebuilBinaryTree/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/07-RebuilBinaryTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/07-RebuilBinaryTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/07-RebuilBinaryTree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/07-RebuilBinaryTree/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/07-RebuilBinaryTree/07-RebuilBinaryTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/07-RebuilBinaryTree/out/production/07-RebuilBinaryTree/Main$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/07-RebuilBinaryTree/out/production/07-RebuilBinaryTree/Main$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/07-RebuilBinaryTree/out/production/07-RebuilBinaryTree/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/07-RebuilBinaryTree/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/09/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/09/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/09/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/09/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/09/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/09/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/09/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/09/09.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/09/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/11/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/11/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/11/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/11/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/11/11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/11/out/production/11/Main$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/11/out/production/11/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/11/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/12/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/12/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/12/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/12/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/12/12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/12/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/13/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/13/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/13/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/13/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/13/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/13/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/13/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/13/13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/13/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/14/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/14/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/14/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/14/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/14/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/14/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/14/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/14/14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/14/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/15/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/15/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/15/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/15/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/15/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/15/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/15/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/15/15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/15/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/16/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/16/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/16/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/16/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/16/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/16/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/16/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/16/16.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/16/out/production/16/Main$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/16/out/production/16/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/16/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/17/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/17/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/17/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/17/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/17/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/17/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/17/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/17/17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/17/out/production/17/Main$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/17/out/production/17/Main$Solution_CustomedFullPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/17/out/production/17/Main$Solution_FullPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/17/out/production/17/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/17/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/21/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/21/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/21/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/21/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/21/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/21/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/21/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/21/21.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/21/out/production/21/Main$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/21/out/production/21/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/21/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/22/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/22/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/22/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/22/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/22/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/22/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/22/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/22/22.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/22/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/24/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/24/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/24/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/24/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/24/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/24/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/24/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/24/24.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/24/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/25/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/25/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/25/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/25/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/25/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/25/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/25/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/25/25.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/25/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/GazeOffer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/MaxQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_30$MinStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_36.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_37$Codec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_37.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_38.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_39.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_40.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_41$MedianFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_41$MedianFinder_0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_43.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_45.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_45_0$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_45_0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_46.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_47.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_48.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_49.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_50.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_55.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_56.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_57.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_58.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_59.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_60.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_61.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_62.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_63.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_64.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_65.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_66.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_67.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_68.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/Solutions/Solution_68_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/components/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/components/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/out/production/GazeOffer/com/jooc/components/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_27.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_29.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_33.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_39.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_40.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_41.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_42.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_43.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_44.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_45.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_46.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_48.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_49.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_50.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_51.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_52.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_53.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_54.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_55.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_56.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_57.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_58.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_59.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_60.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_61.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_62.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_63.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_64.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_65.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_66.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_67.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/Solutions/Solution_68.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/components/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/components/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GazeOffer/src/com/jooc/components/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/LeetCode/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/LeetCode/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/LeetCode/com/jooc/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/LeetCode/com/jooc/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/LeetCode/com/jooc/Solution_1790.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/LeetCode/com/jooc/Solution_675.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_11.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_12.java" />
+        <option value="$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/13/src/Main.java" />
+        <option value="$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/14/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_13.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_14.java" />
+        <option value="$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/03/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_3.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_4.java" />
+        <option value="$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/05/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_5.java" />
+        <option value="$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/06/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_06.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/components/ListNode.java" />
+        <option value="$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/07-RebuilBinaryTree/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_7.java" />
+        <option value="$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/15/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_15.java" />
+        <option value="$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/16/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_16.java" />
+        <option value="$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/17/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_17.java" />
+        <option value="$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/21/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_21.java" />
+        <option value="$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/22/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_22.java" />
+        <option value="$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/24/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_24.java" />
+        <option value="$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/25/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_25.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/components/TreeNode.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1146" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jooc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616426674551" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/jooc/Common" />
+      <recent name="$PROJECT_DIR$/src/com/jooc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jooc.Main" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc362da6-90a6-4de3-90ea-1986ff13d956" name="Default Changelist" comment="" />
+      <created>1616425227463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616425227463</updated>
+      <workItem from="1616425228787" duration="1444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1444000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1146" height="780" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3161232" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/09/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/11/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/12/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/13/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/03/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/04/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/05/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/06/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#186#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/07-RebuilBinaryTree/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/14/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/15/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/16/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/17/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-802">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/21/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/22/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/24/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ImportantPro/未命名文件夹/GazeOffer/25/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/components/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/components/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/components/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
