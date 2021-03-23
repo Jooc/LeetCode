@@ -1,5 +1,7 @@
 package com.jooc.Common;
 
+import com.jooc.GazeOffer.Solution;
+
 import java.util.*;
 
 
