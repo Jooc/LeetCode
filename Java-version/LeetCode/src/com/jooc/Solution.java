@@ -1,4 +1,4 @@
-package com.jooc.GazeOffer;
+package com.jooc;
 
 public interface Solution {
 

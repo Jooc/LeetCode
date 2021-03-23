@@ -1,5 +1,7 @@
 package com.jooc.GazeOffer;
 
+import com.jooc.Solution;
+
 import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.Random;

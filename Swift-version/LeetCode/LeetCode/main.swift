@@ -7,5 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
+let solution: Solution = Solution_5()
+solution.main()
 

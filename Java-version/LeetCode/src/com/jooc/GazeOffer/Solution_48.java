@@ -1,5 +1,7 @@
 package com.jooc.GazeOffer;
 
+import com.jooc.Solution;
+
 import java.util.HashSet;
 
 public class Solution_48 implements Solution {

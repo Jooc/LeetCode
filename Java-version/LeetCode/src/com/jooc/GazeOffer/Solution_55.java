@@ -1,5 +1,6 @@
 package com.jooc.GazeOffer;
 
+import com.jooc.Solution;
 import com.jooc.components.TreeNode;
 
 import java.util.LinkedList;

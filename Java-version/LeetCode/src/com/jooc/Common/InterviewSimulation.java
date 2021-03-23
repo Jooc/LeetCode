@@ -1,8 +1,6 @@
 package com.jooc.Common;
 
-import com.jooc.GazeOffer.Solution;
-
-import java.util.*;
+import com.jooc.Solution;
 
 public class InterviewSimulation implements Solution {
     @Override
@@ -11,5 +9,7 @@ public class InterviewSimulation implements Solution {
 //        System.out.print(countNumbersWithUniqueDigits(3));
 //        System.out.println(minimumSemesters(3, new int[][]{{1,3}, {2,3}}));
 
+        String s = "";
+//        s.lowe
     }
 }

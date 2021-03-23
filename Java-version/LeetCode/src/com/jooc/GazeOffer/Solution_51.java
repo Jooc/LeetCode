@@ -1,5 +1,7 @@
 package com.jooc.GazeOffer;
 
+import com.jooc.Solution;
+
 import java.util.Arrays;
 
 public class Solution_51 implements Solution {

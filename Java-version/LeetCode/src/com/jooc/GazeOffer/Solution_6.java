@@ -1,5 +1,6 @@
 package com.jooc.GazeOffer;
 
+import com.jooc.Solution;
 import com.jooc.components.ListNode;
 
 import java.util.Arrays;

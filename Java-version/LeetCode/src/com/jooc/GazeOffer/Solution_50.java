@@ -1,10 +1,12 @@
 package com.jooc.GazeOffer;
 
+import com.jooc.Solution;
+
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class Solution_50 implements Solution{
+public class Solution_50 implements Solution {
 
     @Override
     public void main() {

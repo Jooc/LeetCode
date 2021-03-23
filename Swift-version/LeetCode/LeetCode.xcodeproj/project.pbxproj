@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F15B38462609D5B300CB3B20 /* Solution_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15B38452609D5B300CB3B20 /* Solution_4.swift */; };
+		F15B384A2609DB4D00CB3B20 /* Solution_5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15B38492609DB4D00CB3B20 /* Solution_5.swift */; };
 		F16B1BD62608E701007240E4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16B1BD52608E701007240E4 /* main.swift */; };
 		F16B1BE22608E711007240E4 /* Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16B1BDE2608E711007240E4 /* Solution.swift */; };
 		F16B1BE32608E711007240E4 /* Solution_675.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16B1BDF2608E711007240E4 /* Solution_675.swift */; };
@@ -27,6 +29,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F15B38452609D5B300CB3B20 /* Solution_4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_4.swift; sourceTree = "<group>"; };
+		F15B38492609DB4D00CB3B20 /* Solution_5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_5.swift; sourceTree = "<group>"; };
 		F16B1BD22608E701007240E4 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		F16B1BD52608E701007240E4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F16B1BDE2608E711007240E4 /* Solution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Solution.swift; sourceTree = "<group>"; };
@@ -46,6 +50,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F15B38412609D59500CB3B20 /* GazeOffer */ = {
+			isa = PBXGroup;
+			children = (
+				F16B1BE12608E711007240E4 /* Solution_3.swift */,
+				F15B38452609D5B300CB3B20 /* Solution_4.swift */,
+				F15B38492609DB4D00CB3B20 /* Solution_5.swift */,
+			);
+			path = GazeOffer;
+			sourceTree = "<group>";
+		};
+		F15B38432609D59F00CB3B20 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				F16B1BDF2608E711007240E4 /* Solution_675.swift */,
+				F16B1BE02608E711007240E4 /* Solution_118.swift */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
 		F16B1BC92608E701007240E4 = {
 			isa = PBXGroup;
 			children = (
@@ -75,9 +98,8 @@
 			isa = PBXGroup;
 			children = (
 				F16B1BDE2608E711007240E4 /* Solution.swift */,
-				F16B1BDF2608E711007240E4 /* Solution_675.swift */,
-				F16B1BE02608E711007240E4 /* Solution_118.swift */,
-				F16B1BE12608E711007240E4 /* Solution_3.swift */,
+				F15B38432609D59F00CB3B20 /* Common */,
+				F15B38412609D59500CB3B20 /* GazeOffer */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -141,8 +163,10 @@
 			files = (
 				F16B1BE22608E711007240E4 /* Solution.swift in Sources */,
 				F16B1BE32608E711007240E4 /* Solution_675.swift in Sources */,
+				F15B38462609D5B300CB3B20 /* Solution_4.swift in Sources */,
 				F16B1BD62608E701007240E4 /* main.swift in Sources */,
 				F16B1BE42608E711007240E4 /* Solution_118.swift in Sources */,
+				F15B384A2609DB4D00CB3B20 /* Solution_5.swift in Sources */,
 				F16B1BE52608E711007240E4 /* Solution_3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

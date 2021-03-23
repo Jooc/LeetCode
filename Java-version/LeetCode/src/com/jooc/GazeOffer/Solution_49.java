@@ -1,5 +1,7 @@
 package com.jooc.GazeOffer;
 
+import com.jooc.Solution;
+
 public class Solution_49 implements Solution {
 
     @Override

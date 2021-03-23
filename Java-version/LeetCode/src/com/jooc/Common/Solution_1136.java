@@ -1,6 +1,6 @@
 package com.jooc.Common;
 
-import com.jooc.GazeOffer.Solution;
+import com.jooc.Solution;
 
 import java.util.ArrayList;
 import java.util.Collections;
