@@ -1,6 +1,7 @@
 package com.jooc;
 
 import com.jooc.Common.InterviewSimulation;
+import com.jooc.Common.Solution_1136;
 import com.jooc.Common.Solution_125;
 
 public class Main {
@@ -8,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-        Solution solution = new Solution_125();
+        Solution solution = new Solution_1136();
         solution.main();
     }
 }

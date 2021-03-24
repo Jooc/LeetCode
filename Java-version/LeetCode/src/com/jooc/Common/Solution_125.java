@@ -20,7 +20,6 @@ public class Solution_125 implements Solution {
             if(left < right){
                 if(str.charAt(left++) != (str.charAt(right--))) return false;
             }
-            Character.toLowerCase()
         }
         return true;
     }
