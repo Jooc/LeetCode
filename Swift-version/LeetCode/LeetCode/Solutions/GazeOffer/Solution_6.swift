@@ -7,7 +7,7 @@
 
 import Foundation
 
-public class ListNode {
+class ListNode {
     public var val: Int
     public var next: ListNode?
     
@@ -16,7 +16,6 @@ public class ListNode {
         self.next = nil
     }
 }
-
 
 class Solution_6: Solution{
     func main() {

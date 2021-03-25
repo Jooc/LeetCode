@@ -7,6 +7,6 @@
 
 import Foundation
 
-let solution: Solution = Solution_6()
+let solution: Solution = Solution_7()
 solution.main()
 
