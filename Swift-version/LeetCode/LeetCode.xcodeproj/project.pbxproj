@@ -17,6 +17,10 @@
 		F16B1BE52608E711007240E4 /* Solution_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16B1BE12608E711007240E4 /* Solution_3.swift */; };
 		F19DFB5F260AF28C00B811CB /* Solution_6.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19DFB5E260AF28C00B811CB /* Solution_6.swift */; };
 		F19DFB62260AF2C300B811CB /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19DFB61260AF2C300B811CB /* ListNode.swift */; };
+		F1BDDE66260CDF8F009EE5A2 /* Solution_9.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BDDE65260CDF8F009EE5A2 /* Solution_9.swift */; };
+		F1BDDE6A260D7D0C009EE5A2 /* Solution_10.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BDDE69260D7D0C009EE5A2 /* Solution_10.swift */; };
+		F1BDDE6D260D8379009EE5A2 /* Solution_11.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BDDE6C260D8379009EE5A2 /* Solution_11.swift */; };
+		F1BDDE70260D87E8009EE5A2 /* Solution_12.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BDDE6F260D87E8009EE5A2 /* Solution_12.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +47,10 @@
 		F16B1BE12608E711007240E4 /* Solution_3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Solution_3.swift; sourceTree = "<group>"; };
 		F19DFB5E260AF28C00B811CB /* Solution_6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_6.swift; sourceTree = "<group>"; };
 		F19DFB61260AF2C300B811CB /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
+		F1BDDE65260CDF8F009EE5A2 /* Solution_9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_9.swift; sourceTree = "<group>"; };
+		F1BDDE69260D7D0C009EE5A2 /* Solution_10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_10.swift; sourceTree = "<group>"; };
+		F1BDDE6C260D8379009EE5A2 /* Solution_11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_11.swift; sourceTree = "<group>"; };
+		F1BDDE6F260D87E8009EE5A2 /* Solution_12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_12.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +72,10 @@
 				F15B38492609DB4D00CB3B20 /* Solution_5.swift */,
 				F19DFB5E260AF28C00B811CB /* Solution_6.swift */,
 				F12A14AD260C208E006F7E6E /* Solution_7.swift */,
+				F1BDDE65260CDF8F009EE5A2 /* Solution_9.swift */,
+				F1BDDE69260D7D0C009EE5A2 /* Solution_10.swift */,
+				F1BDDE6C260D8379009EE5A2 /* Solution_11.swift */,
+				F1BDDE6F260D87E8009EE5A2 /* Solution_12.swift */,
 			);
 			path = GazeOffer;
 			sourceTree = "<group>";
@@ -178,14 +190,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1BDDE66260CDF8F009EE5A2 /* Solution_9.swift in Sources */,
 				F16B1BE22608E711007240E4 /* Solution.swift in Sources */,
 				F16B1BE32608E711007240E4 /* Solution_675.swift in Sources */,
 				F19DFB62260AF2C300B811CB /* ListNode.swift in Sources */,
 				F15B38462609D5B300CB3B20 /* Solution_4.swift in Sources */,
+				F1BDDE70260D87E8009EE5A2 /* Solution_12.swift in Sources */,
 				F12A14AE260C208E006F7E6E /* Solution_7.swift in Sources */,
 				F16B1BD62608E701007240E4 /* main.swift in Sources */,
 				F16B1BE42608E711007240E4 /* Solution_118.swift in Sources */,
 				F19DFB5F260AF28C00B811CB /* Solution_6.swift in Sources */,
+				F1BDDE6D260D8379009EE5A2 /* Solution_11.swift in Sources */,
+				F1BDDE6A260D7D0C009EE5A2 /* Solution_10.swift in Sources */,
 				F15B384A2609DB4D00CB3B20 /* Solution_5.swift in Sources */,
 				F16B1BE52608E711007240E4 /* Solution_3.swift in Sources */,
 			);

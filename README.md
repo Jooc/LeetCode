@@ -7,6 +7,7 @@
 
 ### GazeOffer 
 
+- 11 - advanced Binary-Search
 - 35 - copy complex linked list with HashMap
 - 38 - dfs for **backtracking** with branch pruned
 - 51 - brilliant **Bit-operation**
