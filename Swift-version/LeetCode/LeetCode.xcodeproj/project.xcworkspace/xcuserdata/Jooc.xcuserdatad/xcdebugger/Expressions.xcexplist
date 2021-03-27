@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "exist #1 (_:_:word:) in Solution_12.exist(_:_:):Solution_12.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "board[newX][newY]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
