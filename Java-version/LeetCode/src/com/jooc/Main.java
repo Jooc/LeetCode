@@ -1,15 +1,13 @@
 package com.jooc;
 
-import com.jooc.Common.InterviewSimulation;
-import com.jooc.Common.Solution_1136;
-import com.jooc.Common.Solution_125;
+import com.jooc.Common.*;
 
 public class Main {
 
     public static void main(String[] args) {
 	// write your code here
 
-        Solution solution = new Solution_1136();
+        Solution solution = new Solution_5715();
         solution.main();
     }
 }

@@ -10,5 +10,16 @@
             </PersistentString>
          </PersistentStrings>
       </ContextState>
+      <ContextState
+         contextName = "dfs #1 (_:) in Solution_17.printNumbers(_:):Solution_17.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "builder.lastIndex(of: &quot;0&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "builder.endIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
    </ContextStates>
 </VariablesViewState>
