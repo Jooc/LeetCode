@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F12767A12611855D00C535B8 /* Solution_20.swift in Sources */ = {isa = PBXBuildFile; fileRef = F12767A02611855D00C535B8 /* Solution_20.swift */; };
 		F12A14AE260C208E006F7E6E /* Solution_7.swift in Sources */ = {isa = PBXBuildFile; fileRef = F12A14AD260C208E006F7E6E /* Solution_7.swift */; };
 		F15B38462609D5B300CB3B20 /* Solution_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15B38452609D5B300CB3B20 /* Solution_4.swift */; };
 		F15B384A2609DB4D00CB3B20 /* Solution_5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15B38492609DB4D00CB3B20 /* Solution_5.swift */; };
@@ -16,6 +17,7 @@
 		F16B1BE32608E711007240E4 /* Solution_675.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16B1BDF2608E711007240E4 /* Solution_675.swift */; };
 		F16B1BE42608E711007240E4 /* Solution_118.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16B1BE02608E711007240E4 /* Solution_118.swift */; };
 		F16B1BE52608E711007240E4 /* Solution_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16B1BE12608E711007240E4 /* Solution_3.swift */; };
+		F17E7EE42611771A00CB9907 /* Solution_18.swift in Sources */ = {isa = PBXBuildFile; fileRef = F17E7EE32611771A00CB9907 /* Solution_18.swift */; };
 		F19DFB5F260AF28C00B811CB /* Solution_6.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19DFB5E260AF28C00B811CB /* Solution_6.swift */; };
 		F19DFB62260AF2C300B811CB /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19DFB61260AF2C300B811CB /* ListNode.swift */; };
 		F1BDDE66260CDF8F009EE5A2 /* Solution_9.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BDDE65260CDF8F009EE5A2 /* Solution_9.swift */; };
@@ -38,6 +40,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F12767A02611855D00C535B8 /* Solution_20.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_20.swift; sourceTree = "<group>"; };
 		F12A14AD260C208E006F7E6E /* Solution_7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_7.swift; sourceTree = "<group>"; };
 		F15B38452609D5B300CB3B20 /* Solution_4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_4.swift; sourceTree = "<group>"; };
 		F15B38492609DB4D00CB3B20 /* Solution_5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_5.swift; sourceTree = "<group>"; };
@@ -48,6 +51,7 @@
 		F16B1BDF2608E711007240E4 /* Solution_675.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Solution_675.swift; sourceTree = "<group>"; };
 		F16B1BE02608E711007240E4 /* Solution_118.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Solution_118.swift; sourceTree = "<group>"; };
 		F16B1BE12608E711007240E4 /* Solution_3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Solution_3.swift; sourceTree = "<group>"; };
+		F17E7EE32611771A00CB9907 /* Solution_18.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_18.swift; sourceTree = "<group>"; };
 		F19DFB5E260AF28C00B811CB /* Solution_6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_6.swift; sourceTree = "<group>"; };
 		F19DFB61260AF2C300B811CB /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
 		F1BDDE65260CDF8F009EE5A2 /* Solution_9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_9.swift; sourceTree = "<group>"; };
@@ -82,6 +86,8 @@
 				F1BDDE6F260D87E8009EE5A2 /* Solution_12.swift */,
 				F160934426101157000EA201 /* Solution_15.swift */,
 				F1C5A805261034A400903726 /* Solution_17.swift */,
+				F17E7EE32611771A00CB9907 /* Solution_18.swift */,
+				F12767A02611855D00C535B8 /* Solution_20.swift */,
 			);
 			path = GazeOffer;
 			sourceTree = "<group>";
@@ -210,7 +216,9 @@
 				F19DFB5F260AF28C00B811CB /* Solution_6.swift in Sources */,
 				F1BDDE6D260D8379009EE5A2 /* Solution_11.swift in Sources */,
 				F1BDDE6A260D7D0C009EE5A2 /* Solution_10.swift in Sources */,
+				F17E7EE42611771A00CB9907 /* Solution_18.swift in Sources */,
 				F15B384A2609DB4D00CB3B20 /* Solution_5.swift in Sources */,
+				F12767A12611855D00C535B8 /* Solution_20.swift in Sources */,
 				F16B1BE52608E711007240E4 /* Solution_3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
