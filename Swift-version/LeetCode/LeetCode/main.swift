@@ -7,5 +7,5 @@
 
 import Foundation
 
-let solution: Solution = Solution_20()
+let solution: Solution = Solution_21()
 solution.main()
