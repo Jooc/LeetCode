@@ -29,6 +29,8 @@
 		F1BDDE6D260D8379009EE5A2 /* Solution_11.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BDDE6C260D8379009EE5A2 /* Solution_11.swift */; };
 		F1BDDE70260D87E8009EE5A2 /* Solution_12.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BDDE6F260D87E8009EE5A2 /* Solution_12.swift */; };
 		F1C5A806261034A400903726 /* Solution_17.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C5A805261034A400903726 /* Solution_17.swift */; };
+		F1E164A2261428EE00794C03 /* Solution_27.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E164A1261428EE00794C03 /* Solution_27.swift */; };
+		F1E164A626142BD800794C03 /* Solution_28.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E164A526142BD800794C03 /* Solution_28.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -67,6 +69,8 @@
 		F1BDDE6C260D8379009EE5A2 /* Solution_11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_11.swift; sourceTree = "<group>"; };
 		F1BDDE6F260D87E8009EE5A2 /* Solution_12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_12.swift; sourceTree = "<group>"; };
 		F1C5A805261034A400903726 /* Solution_17.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_17.swift; sourceTree = "<group>"; };
+		F1E164A1261428EE00794C03 /* Solution_27.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_27.swift; sourceTree = "<group>"; };
+		F1E164A526142BD800794C03 /* Solution_28.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_28.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				F15D6A512612BA4B001D38C0 /* Solution_22.swift */,
 				F15D6A542612BB32001D38C0 /* Solution_23.swift */,
 				F15D6A572612BC43001D38C0 /* Solution_25.swift */,
+				F1E164A1261428EE00794C03 /* Solution_27.swift */,
+				F1E164A526142BD800794C03 /* Solution_28.swift */,
 			);
 			path = GazeOffer;
 			sourceTree = "<group>";
@@ -220,6 +226,7 @@
 				F1BDDE66260CDF8F009EE5A2 /* Solution_9.swift in Sources */,
 				F16B1BE22608E711007240E4 /* Solution.swift in Sources */,
 				F16B1BE32608E711007240E4 /* Solution_675.swift in Sources */,
+				F1E164A2261428EE00794C03 /* Solution_27.swift in Sources */,
 				F15D6A582612BC43001D38C0 /* Solution_25.swift in Sources */,
 				F19DFB62260AF2C300B811CB /* ListNode.swift in Sources */,
 				F15B38462609D5B300CB3B20 /* Solution_4.swift in Sources */,
@@ -231,6 +238,7 @@
 				F16B1BE42608E711007240E4 /* Solution_118.swift in Sources */,
 				F19DFB5F260AF28C00B811CB /* Solution_6.swift in Sources */,
 				F1BDDE6D260D8379009EE5A2 /* Solution_11.swift in Sources */,
+				F1E164A626142BD800794C03 /* Solution_28.swift in Sources */,
 				F1BDDE6A260D7D0C009EE5A2 /* Solution_10.swift in Sources */,
 				F17E7EE42611771A00CB9907 /* Solution_18.swift in Sources */,
 				F15B384A2609DB4D00CB3B20 /* Solution_5.swift in Sources */,
