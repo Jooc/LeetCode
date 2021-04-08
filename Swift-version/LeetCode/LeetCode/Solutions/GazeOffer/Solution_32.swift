@@ -65,3 +65,33 @@ class Solution_32_2: Solution {
         return res
     }
 }
+
+class Solution_32_3: Solution {
+    func main() {
+            
+    }
+    
+    func levelOrder(_ root: TreeNode?) -> [[Int]] {
+        var res:[[Int]] = []
+        if root == nil {return res}
+        
+        var queue: [TreeNode] = [root!]
+        var lever = 1
+        while queue.count != 0{
+            let nodes = queue
+            queue.removeAll()
+            
+            let list = (nodes.map{ (node: TreeNode) -> Int in
+                if node.left != nil {queue.append(node.left!)}
+                if node.right != nil {queue.append(node.right!)}
+                
+                return node.val
+            })
+            
+            res.append(lever % 2 == 0 ? list.reversed() : list)
+            lever += 1
+        }
+        
+        return res
+    }
+}
