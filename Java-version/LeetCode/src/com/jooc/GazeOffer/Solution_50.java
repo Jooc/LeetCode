@@ -1,6 +1,7 @@
 package com.jooc.GazeOffer;
 
 import com.jooc.Solution;
+import com.sun.org.apache.xpath.internal.operations.Bool;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
@@ -33,15 +34,21 @@ public class Solution_50 implements Solution {
     }
 
     public char firstUniqChar(String s){
-        HashMap<Character, Boolean> orderedMap = new LinkedHashMap<>();
+        HashMap<Character, Boolean> map = new LinkedHashMap<>();
 
-        for(char c : s.toCharArray()){
-            orderedMap.put(c, !orderedMap.containsKey(c));
+        char[] chars = s.toCharArray();
+        for(char c: chars){
+            map.put(c, !map.containsKey(c));
         }
-        for(Map.Entry<Character, Boolean> entry : orderedMap.entrySet()){
-            if(entry.getValue()) return entry.getKey();
+        for(Map.Entry<Character, Boolean> entry: map.entrySet()){
+            if(entry.getValue())
+                return entry.getKey();
         }
+
         return ' ';
     }
 
+    public char firstUniqueChar(String s){
+        HashMap<>
+    }
 }

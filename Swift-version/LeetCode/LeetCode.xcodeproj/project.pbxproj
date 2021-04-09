@@ -29,7 +29,8 @@
 		F1BDDE6D260D8379009EE5A2 /* Solution_11.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BDDE6C260D8379009EE5A2 /* Solution_11.swift */; };
 		F1BDDE70260D87E8009EE5A2 /* Solution_12.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BDDE6F260D87E8009EE5A2 /* Solution_12.swift */; };
 		F1C5A806261034A400903726 /* Solution_17.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C5A805261034A400903726 /* Solution_17.swift */; };
-		F1CFB1CA261E777300F380EE /* Solution_41.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1CFB1C9261E777300F380EE /* Solution_41.swift */; };
+		F1CFB1CA261E777300F380EE /* Solution_42.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1CFB1C9261E777300F380EE /* Solution_42.swift */; };
+		F1CFB1CE261FE4D900F380EE /* Solution_50.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1CFB1CD261FE4D900F380EE /* Solution_50.swift */; };
 		F1E164A2261428EE00794C03 /* Solution_27.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E164A1261428EE00794C03 /* Solution_27.swift */; };
 		F1E164A626142BD800794C03 /* Solution_28.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E164A526142BD800794C03 /* Solution_28.swift */; };
 		F1E164AA2615DD3600794C03 /* Solution_29.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E164A92615DD3600794C03 /* Solution_29.swift */; };
@@ -75,7 +76,8 @@
 		F1BDDE6C260D8379009EE5A2 /* Solution_11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_11.swift; sourceTree = "<group>"; };
 		F1BDDE6F260D87E8009EE5A2 /* Solution_12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_12.swift; sourceTree = "<group>"; };
 		F1C5A805261034A400903726 /* Solution_17.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_17.swift; sourceTree = "<group>"; };
-		F1CFB1C9261E777300F380EE /* Solution_41.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_41.swift; sourceTree = "<group>"; };
+		F1CFB1C9261E777300F380EE /* Solution_42.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_42.swift; sourceTree = "<group>"; };
+		F1CFB1CD261FE4D900F380EE /* Solution_50.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_50.swift; sourceTree = "<group>"; };
 		F1E164A1261428EE00794C03 /* Solution_27.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_27.swift; sourceTree = "<group>"; };
 		F1E164A526142BD800794C03 /* Solution_28.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_28.swift; sourceTree = "<group>"; };
 		F1E164A92615DD3600794C03 /* Solution_29.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution_29.swift; sourceTree = "<group>"; };
@@ -122,7 +124,8 @@
 				F1E164AC2615E36100794C03 /* Solution_32.swift */,
 				F1E164B22616BE2700794C03 /* Solution_39.swift */,
 				F1E164B52616BFAD00794C03 /* Solution_40.swift */,
-				F1CFB1C9261E777300F380EE /* Solution_41.swift */,
+				F1CFB1C9261E777300F380EE /* Solution_42.swift */,
+				F1CFB1CD261FE4D900F380EE /* Solution_50.swift */,
 			);
 			path = GazeOffer;
 			sourceTree = "<group>";
@@ -240,6 +243,7 @@
 			files = (
 				F15D6A4E2612B860001D38C0 /* Solution_21.swift in Sources */,
 				F15D6A552612BB32001D38C0 /* Solution_23.swift in Sources */,
+				F1CFB1CE261FE4D900F380EE /* Solution_50.swift in Sources */,
 				F1E164AA2615DD3600794C03 /* Solution_29.swift in Sources */,
 				F1C5A806261034A400903726 /* Solution_17.swift in Sources */,
 				F1BDDE66260CDF8F009EE5A2 /* Solution_9.swift in Sources */,
@@ -249,7 +253,7 @@
 				F15D6A582612BC43001D38C0 /* Solution_25.swift in Sources */,
 				F19DFB62260AF2C300B811CB /* ListNode.swift in Sources */,
 				F15B38462609D5B300CB3B20 /* Solution_4.swift in Sources */,
-				F1CFB1CA261E777300F380EE /* Solution_41.swift in Sources */,
+				F1CFB1CA261E777300F380EE /* Solution_42.swift in Sources */,
 				F1E164B62616BFAD00794C03 /* Solution_40.swift in Sources */,
 				F1BDDE70260D87E8009EE5A2 /* Solution_12.swift in Sources */,
 				F1E164B32616BE2700794C03 /* Solution_39.swift in Sources */,
