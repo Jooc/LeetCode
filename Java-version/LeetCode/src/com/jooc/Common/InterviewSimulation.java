@@ -12,4 +12,10 @@ public class InterviewSimulation implements Solution {
         String s = "";
 //        s.lowe
     }
+
+
+    public double similarity(){
+        String origin = System.out
+    }
+
 }

@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc362da6-90a6-4de3-90ea-1986ff13d956" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Swift-version/LeetCode/LeetCode/Solutions/GazeOffer/Solution_50.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Swift-version/LeetCode/LeetCode.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Swift-version/LeetCode/LeetCode.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jooc/Common/InterviewSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jooc/Common/InterviewSimulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Swift-version/LeetCode/LeetCode.xcodeproj/project.xcworkspace/xcuserdata/Jooc.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../Swift-version/LeetCode/LeetCode.xcodeproj/project.xcworkspace/xcuserdata/Jooc.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Swift-version/LeetCode/LeetCode.xcodeproj/xcuserdata/Jooc.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" afterPath="$PROJECT_DIR$/../../Swift-version/LeetCode/LeetCode.xcodeproj/xcuserdata/Jooc.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Swift-version/LeetCode/LeetCode/Solutions/GazeOffer/Solution_41.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../Swift-version/LeetCode/LeetCode/Solutions/GazeOffer/Solution_42.swift" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,20 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jooc/Common/Solution_1136.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="13" selection-start-line="13" selection-end-line="55" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jooc/Common/Solution_208.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,7 +74,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
+            <state relative-caret-position="68">
               <caret line="7" selection-start-line="7" selection-end-line="45" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -101,14 +83,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_50.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/jooc/Common/InterviewSimulation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
-                <element signature="e#1195#1196#0" expanded="true" />
-                <element signature="e#1219#1220#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -197,7 +188,6 @@
         <option value="$PROJECT_DIR$/src/com/jooc/Common/Solution_675.java" />
         <option value="$PROJECT_DIR$/src/com/jooc/Common/Solution_357.java" />
         <option value="$PROJECT_DIR$/src/com/jooc/Common/Solution_557.java" />
-        <option value="$PROJECT_DIR$/src/com/jooc/Common/InterviewSimulation.java" />
         <option value="$PROJECT_DIR$/src/com/jooc/Common/Solution_125.java" />
         <option value="$PROJECT_DIR$/src/com/jooc/Common/Solution_1136.java" />
         <option value="$PROJECT_DIR$/src/com/jooc/Common/Solution_208.java" />
@@ -207,6 +197,7 @@
         <option value="$PROJECT_DIR$/src/com/jooc/Common/Solution_5714.java" />
         <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_20.java" />
         <option value="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_50.java" />
+        <option value="$PROJECT_DIR$/src/com/jooc/Common/InterviewSimulation.java" />
       </list>
     </option>
   </component>
@@ -222,6 +213,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,7 +250,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -321,17 +312,20 @@
       <workItem from="1616895494676" duration="4180000" />
       <workItem from="1616988245872" duration="2305000" />
       <workItem from="1617931726847" duration="349000" />
+      <workItem from="1618485542099" duration="215000" />
+      <workItem from="1618751403592" duration="14000" />
+      <workItem from="1626492177876" duration="205000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18516000" />
+    <option name="totallyTimeSpent" value="18950000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23462088" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24391988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -591,13 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jooc/Common/InterviewSimulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jooc/Common/Solution_125.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -693,6 +680,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" selection-start-line="7" selection-end-line="45" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_50.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jooc/Common/Solution_357.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -720,23 +724,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_20.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jooc/Common/InterviewSimulation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="7" selection-start-line="7" selection-end-line="45" selection-end-column="1" />
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_50.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding>
-            <element signature="e#1195#1196#0" expanded="true" />
-            <element signature="e#1219#1220#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
           </folding>
         </state>
       </provider>
