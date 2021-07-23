@@ -8,10 +8,16 @@ class Node:
 def printAll(head: Node):
     res = []
     while head is not None:
-        res.append([head.next.val, head.random.val])
+        single = [head.val]
+        if head.random is not None:
+            single.append(head.random.val)
+        else:
+            single.append(None)
+        res.append(single)
         head = head.next
     for nums in res:
         print(nums)
+
 
 
 class Solution:
@@ -29,6 +35,7 @@ class Solution:
         target2.random = target4
         target3.random = target2
         target4.random = target
+        printAll(target)
         printAll(self.copyRandomList(target))
 
     def copyRandomList(self, head: Node) -> Node:
@@ -39,6 +46,5 @@ class Solution:
             current = Node(origin.val)
             res.next = current
             origin = origin.next
-            print(current.val)
 
         return res
