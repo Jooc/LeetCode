@@ -35,16 +35,36 @@ class Solution:
         target2.random = target4
         target3.random = target2
         target4.random = target
-        printAll(target)
         printAll(self.copyRandomList(target))
 
     def copyRandomList(self, head: Node) -> Node:
-        res = Node(head.val)
-        origin = head.next
+        if not head:
+            return
 
+        res = Node(head.val)
+        res.next = head.next
+        head.next = res
+
+        origin = res.next
         while origin is not None:
             current = Node(origin.val)
-            res.next = current
-            origin = origin.next
+            current.next = origin.next
+            origin.next = current
 
-        return res
+            origin = current.next
+
+        origin = head
+        while origin is not None:
+            if origin.random is not None:
+                origin.next.random = origin.random.next
+            origin = origin.next.next
+
+        origin = head
+        guard = Node(-1, None, None)
+        current = guard
+        while origin is not None:
+            current.next = origin.next
+            origin = origin.next.next
+            current = current.next
+
+        return guard.next
