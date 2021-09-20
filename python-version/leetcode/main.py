@@ -1,3 +1,4 @@
+import Solution_1736
 import Solution_1877
 import Solution_36
 import Solution_53
