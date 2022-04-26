@@ -1,5 +1,5 @@
 from typing import List
-
+import random
 
 class Solution:
     def __init__(self, nums: List[int]):
@@ -10,7 +10,7 @@ class Solution:
         for i, num in enumerate(self.nums):
             if num == target:
                 count += 1
-                if randrange(count) == 0:
+                if random.randrange(count) == 0:
                     ans = i
         return ans
 
