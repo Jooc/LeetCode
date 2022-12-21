@@ -8,4 +8,12 @@ public class ListNode {
         val = x;
         next = null;
     }
+
+    public void printAll(){
+        System.out.print(this.val);
+        System.out.print(' ');
+        if (this.next != null) {
+            this.next.printAll();
+        }
+    }
 }

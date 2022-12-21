@@ -1,13 +1,13 @@
 package com.jooc;
 
-import com.jooc.Common.*;
+import com.jooc.NewCoder.*;
 
 public class Main {
 
     public static void main(String[] args) {
 	// write your code here
 
-        Solution solution = new Solution_5715();
+        Solution solution = new Solution_1();
         solution.main();
     }
 }

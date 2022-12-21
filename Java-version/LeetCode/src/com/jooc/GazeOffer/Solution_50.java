@@ -1,7 +1,6 @@
 package com.jooc.GazeOffer;
 
 import com.jooc.Solution;
-import com.sun.org.apache.xpath.internal.operations.Bool;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
@@ -46,9 +45,5 @@ public class Solution_50 implements Solution {
         }
 
         return ' ';
-    }
-
-    public char firstUniqueChar(String s){
-        HashMap<>
     }
 }
