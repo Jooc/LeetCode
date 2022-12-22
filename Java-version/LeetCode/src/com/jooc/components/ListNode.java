@@ -9,11 +9,14 @@ public class ListNode {
         next = null;
     }
 
-    public void printAll(){
+    public void printAll(int seq){
+        if (seq > 100){
+            return ;
+        }
         System.out.print(this.val);
         System.out.print(' ');
         if (this.next != null) {
-            this.next.printAll();
+            this.next.printAll(seq + 1);
         }
     }
 }

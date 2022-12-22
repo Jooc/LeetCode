@@ -16,7 +16,7 @@ public class Solution_1 implements Solution {
         ListNode root = new ListNode(1);
         root.next = sec;
 
-        this.ReverseList(root).printAll();
+        this.ReverseList(root).printAll(0);
     }
 
 //    Based on Stack
