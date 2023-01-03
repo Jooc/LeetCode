@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-        Solution solution = new Solution_5();
+        Solution solution = new Solution_16();
         solution.main();
     }
 }

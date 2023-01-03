@@ -3,10 +3,7 @@ package com.jooc.NewCoder;
 import com.jooc.Solution;
 import com.jooc.components.ListNode;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.PriorityQueue;
-import java.util.Queue;
+import java.util.*;
 
 public class Solution_5 implements Solution {
 
@@ -24,7 +21,7 @@ public class Solution_5 implements Solution {
     }
 
     public ListNode mergeKLists(ArrayList<ListNode> lists) {
-        Queue<ListNode> queue = new PriorityQueue<>((l1, l2) -> l1.val - l2.val);
+        Queue<ListNode> queue = new PriorityQueue<>(Comparator.comparingInt(l -> l.val));
 
         for(ListNode head: lists){
             if (head != null)
