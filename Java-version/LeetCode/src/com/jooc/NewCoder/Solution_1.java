@@ -71,7 +71,7 @@ public class Solution_1 implements Solution {
             return head;
 
         ListNode next = head.next;
-        ListNode reverse = ReverseList(next);
+        ListNode reverse = ReverseList_Recursive(next);
         next.next = head;
         head.next = null;
 
