@@ -1,112 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bc362da6-90a6-4de3-90ea-1986ff13d956" name="Default Changelist" comment="12-13: Common 1832">
-      <change afterPath="$PROJECT_DIR$/src/com/jooc/NewCoder/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/notes/NewCoder.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/InterviewSimulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_1136.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_1136.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_125.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_125.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_1790.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_1790.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_208$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_208$Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_208$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_208$TrieNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_208.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_208.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_357.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_357.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_557.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_557.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_5713.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_5713.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_5714.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_5714.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_5715.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_5715.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_675.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Common/Solution_675.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/MaxQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/MaxQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_13$Solution_DP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_13$Solution_DP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_17$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_17$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_17$Solution_CustomedFullPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_17$Solution_CustomedFullPermutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_17$Solution_FullPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_17$Solution_FullPermutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_30$MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_30$MinStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_31.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_31.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_32.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_33.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_34.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_35.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_35.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_36.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_36.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_37$Codec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_37$Codec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_37.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_37.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_38.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_38.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_39.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_39.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_4$Solution_CompleteBinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_4$Solution_CompleteBinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_4$Solution_HalfBinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_4$Solution_HalfBinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_4$Solution_SnakeCrawl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_4$Solution_SnakeCrawl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_40.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_40.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_41$MedianFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_41$MedianFinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_41$MedianFinder_0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_41$MedianFinder_0.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_41.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_41.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_42.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_42.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_43.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_43.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_44.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_44.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_45.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_45.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_45_0$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_45_0$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_45_0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_45_0.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_46.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_46.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_47.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_47.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_48.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_48.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_49.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_49.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_5$Solution_StringBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_5$Solution_StringBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_5$Solution_traversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_5$Solution_traversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_50.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_50.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_51.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_51.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_52.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_52.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_53.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_53.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_54.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_54.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_55.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_55.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_56.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_56.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_57.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_57.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_58.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_58.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_59.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_59.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_6$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_6$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_60.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_60.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_61.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_61.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_62.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_62.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_63.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_63.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_64.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_64.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_65.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_65.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_66.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_66.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_67.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_67.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_68.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_68.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_68_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_68_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/GazeOffer/Solution_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/components/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/components/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/components/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/components/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/components/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/jooc/components/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jooc/Common/InterviewSimulation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jooc/GazeOffer/Solution_50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jooc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jooc/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jooc/components/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jooc/components/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jooc/notes/NewCoder.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,17 +135,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/ImprontFiles/CodeProject/LeetCode/Java-version/LeetCode&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/CodeProject/LeetCode/Java-version/LeetCode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/jooc/Common" />
@@ -296,6 +203,7 @@
       <workItem from="1669879538998" duration="9000" />
       <workItem from="1670895422903" duration="1653000" />
       <workItem from="1671586050110" duration="4951000" />
+      <workItem from="1676946923190" duration="3285000" />
     </task>
     <task id="LOCAL-00001" summary="Common 1732">
       <created>1668825971311</created>
