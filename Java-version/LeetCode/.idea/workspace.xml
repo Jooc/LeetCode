@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc362da6-90a6-4de3-90ea-1986ff13d956" name="Default Changelist" comment="12-13: Common 1832">
-      <change afterPath="$PROJECT_DIR$/src/resources/notes/NewCoder.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/Solution_6366.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/Solution_6367.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/Solution_6368.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jooc/Solution_6369.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jooc/notes/NewCoder.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jooc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jooc/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +145,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/CodeProject/LeetCode/Java-version/LeetCode",
+    "last_opened_file_path": "/Users/Jooc/CodeProject/ForLearning/LeetCode/Java-version/LeetCode",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -204,6 +209,7 @@
       <workItem from="1670895422903" duration="1653000" />
       <workItem from="1671586050110" duration="4951000" />
       <workItem from="1676946923190" duration="3285000" />
+      <workItem from="1677378599829" duration="6620000" />
     </task>
     <task id="LOCAL-00001" summary="Common 1732">
       <created>1668825971311</created>
@@ -349,6 +355,31 @@
           <url>file://$PROJECT_DIR$/src/com/jooc/NewCoder/Solution_1.java</url>
           <line>59</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jooc/Solution_6368.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jooc/Solution_6367.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jooc/Solution_6367.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jooc/Solution_6366.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jooc/Solution_6366.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
