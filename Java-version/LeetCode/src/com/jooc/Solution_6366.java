@@ -7,7 +7,9 @@ import java.util.Queue;
 public class Solution_6366 implements Solution {
     @Override
     public void main() {
-        System.out.println(minimumTime(new int[][]{{0, 1, 3, 2}, {5, 1, 2, 5}, {4, 3, 8, 6}}));
+        System.out.println(1e5);
+
+//        System.out.println(minimumTime(new int[][]{{0, 1, 3, 2}, {5, 1, 2, 5}, {4, 3, 8, 6}}));
     }
 
     private static final int[][] directions = new int[][]{{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
@@ -56,9 +58,8 @@ public class Solution_6366 implements Solution {
         int nRows = grid.length, nCols = grid[0].length;
         int[][] visited = new int[nRows][nCols];
 
-        
 
-
+        return -1;
     }
 
 }
