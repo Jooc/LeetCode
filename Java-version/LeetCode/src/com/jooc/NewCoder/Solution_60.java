@@ -10,7 +10,6 @@ public class Solution_60 implements Solution {
         System.out.println(generateParenthesis(2).toString());
     }
 
-
     private ArrayList<String> res = new ArrayList<>();
 
     private void recur_0(int leftCount, int rightCount, int n, StringBuilder permBuilder) {
