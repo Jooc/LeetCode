@@ -2,17 +2,13 @@ package com.jooc.NewCoder;
 
 import com.jooc.Solution;
 
-import java.util.Arrays;
-
 public class Solution_76 implements Solution {
     @Override
     public void main() {
         System.out.println(match("aaa", "a*a"));
-    }
-
-    private boolean letterMatch(char ch1, char ch2){
-        if(ch2 == '.') return true;
-
+        System.out.println(match("aaab", "a*a*a*c"));
+        System.out.println(match("a", "ab*a"));
+        System.out.println(match("aaa", "aa*"));
     }
 
     public boolean match(String str, String pattern) {
@@ -32,12 +28,18 @@ public class Solution_76 implements Solution {
         for (int i = 1; i <= n1; i++) {
             for (int j = 1; j <= n2; j++) {
                 if (pattern.charAt(j - 1) != '*') {
-                    dp[i][j] = str.charAt(i - 1) == pattern.charAt(j - 1) || pattern.charAt(j - 1) == '.' && dp[i - 1][j - 1];
+                    dp[i][j] = (str.charAt(i - 1) == pattern.charAt(j - 1) || pattern.charAt(j - 1) == '.') && dp[i - 1][j - 1];
                 } else {
-
+                    if (pattern.charAt(j - 2) == '.' || pattern.charAt(j - 2) == str.charAt(i - 1)) {
+                        dp[i][j] = dp[i - 1][j];
+                    }
+                    dp[i][j] |= dp[i][j - 2];
                 }
             }
         }
+
+//        System.out.println(Arrays.deepToString(dp));
+
         return dp[n1][n2];
     }
 }
