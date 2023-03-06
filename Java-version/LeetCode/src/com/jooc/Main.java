@@ -1,14 +1,15 @@
 package com.jooc;
 
-import com.jooc.NewCoder.*;
+import com.jooc.Competition.WeeklyCompetition_2;
 
 public class Main {
 
     public static void main(String[] args) {
 	// write your code here
 
-        Solution solution = new Solution_54();
+        Solution solution = new WeeklyCompetition_2();
         solution.main();
+
     }
 }
 
