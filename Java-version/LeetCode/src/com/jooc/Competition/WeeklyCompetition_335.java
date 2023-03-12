@@ -78,7 +78,7 @@ public class WeeklyCompetition_335 implements Solution {
         return -1;
     }
 
-    public int waysToReachTarget(int target, int[][] types) {
+    public int waysToReachTarget_wrong(int target, int[][] types) {
         int n = types.length;
         int[][] dp = new int[n][target + 1];
 
@@ -105,16 +105,32 @@ public class WeeklyCompetition_335 implements Solution {
                         dp[i][curTarget] = dp[i][curTarget] + 1;
                     } else if (curTarget - curMianeCount * curMiane > 0) {
                         dp[i][curTarget] = dp[i][curTarget - curMianeCount * curMiane] + 1;
-                    }else if(i > 0){
-                        dp[i][curTarget] = dp[i-1][curTarget];
+                    } else if (i > 0) {
+                        dp[i][curTarget] = dp[i - 1][curTarget];
                     }
                     if (dp[i][curTarget] >= (1e9 + 7)) dp[i][curTarget] %= (1e9 + 7);
-                    if(curTarget - curMianeCount * curMiane <= 0) break;
+                    if (curTarget - curMianeCount * curMiane <= 0) break;
                 }
                 System.out.println(Arrays.deepToString(dp));
             }
         }
 
         return dp[n - 1][target];
+    }
+
+    public int waysToReachTarget(int target, int[][] types) {
+        var dp = new int[target + 1];
+        dp[0] = 1;
+
+        for (int[] p : types) {
+            int count = p[0], marks = p[1];
+            for (int i = target; i > 0; i--) {
+                for (int j = 1; j <= count && i - j * marks >= 0; j++) {
+                    int mod = (int) 1e9 + 7;
+                    dp[i] = (dp[i] + dp[i - j * marks]) % mod;
+                }
+            }
+        }
+        return dp[target];
     }
 }
