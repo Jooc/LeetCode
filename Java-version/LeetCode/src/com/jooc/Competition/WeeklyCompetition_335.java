@@ -5,13 +5,13 @@ import com.jooc.components.TreeNode;
 
 import java.util.*;
 
-public class WeeklyCompetition_2 implements Solution {
+public class WeeklyCompetition_335 implements Solution {
     @Override
     public void main() {
 //        System.out.println(passThePillow(3, 2));
-//        System.out.println(findValidSplit(new int[]{4, 7, 8, 15, 3, 5}));
-//        System.out.println(findValidSplit(new int[]{4, 7, 15, 8, 3, 5}));
-        System.out.println(waysToReachTarget(6, new int[][]{{6, 1}, {3, 2}, {2, 3}}));
+        System.out.println(findValidSplit(new int[]{4, 7, 8, 15, 3, 5}));
+        System.out.println(findValidSplit(new int[]{4, 7, 15, 8, 3, 5}));
+//        System.out.println(waysToReachTarget(6, new int[][]{{6, 1}, {3, 2}, {2, 3}}));
     }
 
     public int passThePillow(int n, int time) {
@@ -75,7 +75,6 @@ public class WeeklyCompetition_2 implements Solution {
             }
             if (i >= begin && !flag) return i;
         }
-
         return -1;
     }
 
