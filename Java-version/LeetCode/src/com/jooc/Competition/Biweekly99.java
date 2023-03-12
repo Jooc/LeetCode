@@ -4,7 +4,7 @@ import com.jooc.Solution;
 
 import java.util.*;
 
-public class BiweeklyCompetition_1 implements Solution {
+public class Biweekly99 implements Solution {
     @Override
     public void main() {
 //        System.out.println(splitNum(4325));

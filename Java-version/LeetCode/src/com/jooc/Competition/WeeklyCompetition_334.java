@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class WeeklyCompetition_1 implements Solution {
+public class WeeklyCompetition_334 implements Solution {
     @Override
     public void main() {
         System.out.println(1e5);
