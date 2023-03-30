@@ -1,4 +1,6 @@
-package com.jooc;
+package com.jooc.GazeOffer.Interview;
+
+import com.jooc.Solution;
 
 import java.util.*;
 
