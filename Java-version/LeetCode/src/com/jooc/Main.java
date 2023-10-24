@@ -2,6 +2,7 @@ package com.jooc;
 
 import com.jooc.Common.*;
 import com.jooc.Competition.S338;
+import com.jooc.Competition.S339;
 import com.jooc.Competition.WeeklyCompetition_337;
 import com.jooc.GazeOffer.Solution_10;
 //import com.jooc.NewCoder.*;
@@ -12,13 +13,34 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
+class Animal{
+    public Animal(){
+        System.out.println("Animal");
+    }
+}
+
+class Cat extends Animal{
+    {
+        System.out.println("Cat block");
+    }
+
+    public Cat(){
+        System.out.println("Cat");
+    }
+}
 
 public class Main {
 
     public static void main(String[] args) {
-
-        Solution solution = new Solution_54();
-        solution.main();
+        Integer fst = 1;
+        Integer snd = new Integer(1);
+        System.out.println(fst == snd);
+        System.out.println(new Integer(1) == snd);
+        System.out.println(fst == Integer.valueOf(1));
+        Integer trd = 256;
+        System.out.println(trd == Integer.valueOf(256));
+//        Solution solution = new Solution_78_1();
+//        solution.main();
     }
 }
 
